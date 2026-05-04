@@ -72,6 +72,9 @@ EDA-Task/
 
 ---
 
+**Note:** report.html is large, please download and open locally.
+
+
 ## Conclusion
 
 EDA helps in understanding the dataset before applying machine learning models.
